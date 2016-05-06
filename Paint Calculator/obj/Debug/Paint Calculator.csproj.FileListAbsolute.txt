@@ -1,0 +1,21 @@
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\bin\Debug\Paint Calculator.exe.config
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\bin\Debug\Paint Calculator.exe
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\bin\Debug\Paint Calculator.pdb
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.csprojResolveAssemblyReference.cache
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\obj\Debug\Paint_Calculator.PaintCalculator.resources
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\obj\Debug\Paint_Calculator.Properties.Resources.resources
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.csproj.GenerateResource.Cache
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.exe
+C:\Users\glen\Desktop\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.pdb
+C:\Users\glen\Desktop\Paint Calculator1\Paint Calculator\bin\Debug\Paint Calculator.exe.config
+C:\Users\glen\Desktop\Paint Calculator1\Paint Calculator\obj\Debug\Paint Calculator.exe
+C:\Users\glen\Desktop\Paint Calculator1\Paint Calculator\obj\Debug\Paint Calculator.pdb
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\bin\Debug\Paint Calculator.exe.config
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.exe
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.pdb
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\bin\Debug\Paint Calculator.exe
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\bin\Debug\Paint Calculator.pdb
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.csprojResolveAssemblyReference.cache
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\obj\Debug\Paint_Calculator.PaintCalculator.resources
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\obj\Debug\Paint_Calculator.Properties.Resources.resources
+C:\Users\glen\Desktop\Paint Calculator\mine with only 1 class\Paint Calculator\Paint Calculator\obj\Debug\Paint Calculator.csproj.GenerateResource.Cache
